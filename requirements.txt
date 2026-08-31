@@ -1,0 +1,10 @@
+seaborn
+pandas
+curl_cffi
+numpy
+matplotlib
+bs4
+category_encoders
+playwright
+scikit-learn==1.7.2
+xgboost==3.2.0

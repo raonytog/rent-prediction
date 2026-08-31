@@ -1,0 +1,14 @@
+id,cidade,bairro,tipo,area,quartos,banheiros,vagas,elevador,porteiro,area_lazer,academia,varanda,mobiliado
+1,Vitória,Mata da Praia,0,283,4,5,4,0,1,1,0,1,0
+2,Serra,Valparaíso,0,242,4,3,3,0,0,1,0,0,1
+3,Vila Velha,Jaburuna,0,256,3,5,1,0,0,0,0,0,0
+4,Vitória,Ilha do Boi,0,523,3,5,2,0,0,1,0,0,0
+5,Cariacica,Campo Grande,1,70,3,2,0,0,0,0,0,1,0
+6,Cariacica,Campo Grande,1,130,3,2,0,0,0,0,0,1,0
+7,Serra,Laranjeiras,1,129,3,3,2,1,1,1,1,1,0
+8,Vila Velha,Praia de Itaparica,1,61.73,2,2,1,1,0,1,0,1,0
+9,Vila Velha,Itapuã,1,90,3,3,2,1,1,1,1,0,0
+10,Vitória,Santa Lúcia,1,80,3,1,1,0,0,0,0,0,0
+11,Vitória,Jardim Camburi,1,70,2,2,1,0,0,0,0,0,0
+12,Vitória,Jardim da Penha,1,38,2,1,0,0,0,0,0,0,0
+13,Guarapari,Centro,1,53,1,1,1,1,0,0,0,0,0
