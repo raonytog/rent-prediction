@@ -1,8 +1,8 @@
 import numpy as np
 import pandas as pd
 import joblib
-from const import *
-from imovel import Imovel
+from src.const import *
+from src.imovel import Imovel
 
 def carregar_modelo(pasta=PATH_PASTA_JOBLIB):
     """
