@@ -61,7 +61,7 @@ make inf
 ```
 Ou o seguinte comando
 ```bash
-python inferencia.py
+python src/inferencia.py
 ```
 Isso gerará o arquivo `resultado.csv` com os valores preditos pelo modelo.
 
